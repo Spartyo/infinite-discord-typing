@@ -1,0 +1,7 @@
+pyautogui 
+pywin32
+re
+time
+keyboard
+sys
+argparse
