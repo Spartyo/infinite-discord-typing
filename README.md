@@ -9,3 +9,5 @@ At the end it will post a rudimentary message of your choice. Or not.
 Unfortunately this isn't funny enough for me to figure out how to utilize win32 to send key input to discord. 
 
 So youll either need to run this in a VM or not use your computer while this runs, as it requires discord in focus.
+
+Install requirements via pip install -r requirements.txt
